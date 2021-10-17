@@ -1,0 +1,8 @@
+{
+  "name": "5abv6g--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "7.1.0"
+  }
+}
